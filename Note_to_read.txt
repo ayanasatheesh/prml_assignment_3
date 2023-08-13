@@ -1,0 +1,1 @@
+The program contains a function named 'test'. In that test function please change the path of the models , namely "dictionary.dat", "nonspamModel.dat","dictionary.dat","countnonspam.dat","countspam.dat" if required
